@@ -1,0 +1,14 @@
+.cart{
+    text-decoration: none;
+}
+.numerito{
+    font-size: 18px;
+    flex-direction: column;
+    display: flex;
+    align-items:end;
+    color:#fff;
+    border-radius: 40px;
+    text-align: center;
+    margin-inline: 15px;
+    text-decoration: none;
+    }
